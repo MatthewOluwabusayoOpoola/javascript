@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    background-color: antiquewhite;
+}
+span{
+    border-bottom: 2px double black;
+}
+button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 50px;
+}
