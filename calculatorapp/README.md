@@ -2,7 +2,7 @@
 
 This App uses arithmetic function to provide simple mathematical calculations such as Addition, Subtraction, Multiplication and Division 
 
-![The Overall Look Of The App](img/overAllLook.png)
+![The Overall Look Of The App](img/Overallook.png)
 
 # FUNCTIONS IT PROVIDES
 
